@@ -1,10 +1,18 @@
 {
   "ksjs":{
+<<<<<<< HEAD
     "version": 20251231,
     "url": "https://raw.githubusercontent.com/sluckydream/a001/refs/heads/main/ks/ks%E6%9E%81%E9%80%9F.js"
   },
   "kszb":{
     "version": 20251231,
+=======
+    "version": 20251230,
+    "url": "https://raw.githubusercontent.com/sluckydream/a001/refs/heads/main/ks/ks%E6%9E%81%E9%80%9F.js"
+  },
+  "kszb":{
+    "version": 20251230,
+>>>>>>> 76f04ccb0b3dd56a54beb8570200979b1bf9bddd
     "url": "https://raw.githubusercontent.com/sluckydream/a001/refs/heads/main/ks/ks%E6%99%AE%E9%80%9A.js"
   }
 }
